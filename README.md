@@ -16,4 +16,4 @@ Control metrics : Transformation rate of the landing page
 
 Opportunity score : **12** - (5,5,3,1) (user score + business score + internal score) - difficulty
 
-Design Guidelines : ![alt text](https://github.com/ipharatest/Sprint0106/blob/master/Screen%20Shot%202018-05-30%20at%2010.07.48.png)
+Design Guidelines : ![alt text](https://github.com/ipharatest/Sprint0106/blob/master/AllEmailAdresses.png)
