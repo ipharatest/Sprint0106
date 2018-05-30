@@ -25,7 +25,7 @@ Stories description for Sprint0106
 > If successful, **Invoice extract** will **reduce by 30% the time it takes a user to extract invoices** because it will be **easier to find the button**
 
 ### Opportunity score : 
-**4** - (4,1,0,1) (user score + business score + internal score) - difficulty
+**4** - (4,1,0,1) (user score, business score, internal score, difficulty)
 
 ### Duration estimation :
 ?
@@ -40,3 +40,6 @@ Stories description for Sprint0106
 
 ### Opportunity score : 
 **X** - (X,X,X,X) (user score + business score + internal score) - difficulty
+
+### Duration estimation :
+?
