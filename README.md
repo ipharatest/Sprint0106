@@ -1,11 +1,15 @@
+[green]:https://placehold.it/15/c5f015/000000?text=+
+[red]:https://placehold.it/15/f03c15/000000?text=+
+[blue]:https://placehold.it/15/0000ff/000000?text=+
+
 # Sprint0106
 Stories description for Sprint0106
 
 | Story # |Status  | Title             | Opportunity score  |In charge  |
 | ------  |-------:|:-----------------:| ------------------:|----------:|
-| 1       |![blue]  | Invoices extract  | 4                  | JMLD      |
-| 2       |![red]   | Non, rien de rien | x                  |y          |
-| 3       |![green]    | La foule          | x                  |z          |
+| 1       |![blue]  | Invoices extract | 4                  | JMLD      |
+| 2       |![red]   | Non, rien de rien| x                  |y          |
+| 3       |![green] | La foule         | x                  |z          |
 
 ## Story #1 : Invoices extract
 ### Customer feedback
@@ -27,8 +31,3 @@ Measure the session duration when a user extract invoices for the first time.
 
 ### Design Guidelines : 
 TBD
-
-
-[green]:https://placehold.it/15/c5f015/000000?text=+
-[red]:https://placehold.it/15/f03c15/000000?text=+
-[blue]:https://placehold.it/15/0000ff/000000?text=+
