@@ -14,8 +14,6 @@ Stories description for Sprint0106
 | 5       |![blue]  | xxxxxxxx         | x                  |z          |
 | 6       |![red]   | xxxxxxxx         | x                  |z          |
 
-***
-
 ## Story #1 : Invoices extract
 
 ### Story :
